@@ -55,6 +55,14 @@ The product is a **pure static site** (no backend, no build step). Open `site/in
 
 *本产品为**纯静态站点**（无后端、无构建步骤）。用浏览器打开 `site/index.html`，或将 `site/` 目录托管到任意静态主机。*
 
+## Live interactive demo / 在线交互演示
+
+- **Hosted interactive product / 在线交互产品**：[https://4m35pz21sueq0.doubaoapps.com/app/app_17ft5urc7pr](https://4m35pz21sueq0.doubaoapps.com/app/app_17ft5urc7pr)
+  Includes the three-sided apps (consumer / merchant / insurer), the auto-play 8-scene guided storyline, AI return routing & return-insurance pricing, plus the "For the Judges" BP sub-page and the "Scoring" sub-page.
+  含三端应用（消费者 / 商家 / 保险机构）、可自动播放的 8 幕剧情主线、AI 退货路由与退运险定价，以及「For the Judges」BP 子页面和「Scoring 评分对照」子页面。
+- The static `site/` folder in this repo is an offline snapshot of the same product — just open `site/index.html`.
+  本仓库 `site/` 目录为同一产品的离线静态快照，打开 `site/index.html` 即可。
+
 ## Business model (summary) / 商业模式（摘要）
 
 - **Main product — AI Returns Decision SaaS**: annual subscription + per-order fee, paid by merchants & 3PLs.
@@ -72,4 +80,4 @@ The product is a **pure static site** (no backend, no build step). Open `site/in
   市场验证、定价、落地推广与监管合规（PDPL、SAMA 保险沙盒、国家地址令）。
 
 *Prepared by Enjing Jiang (蒋恩晶) and the KFUPM × Tsinghua team, October 2026.*
-*由蒋恩晶（Enjing Jiang）及 KFUPM × 清华团队撰写，2026 年 10 月。*
+*由蒋恩晶（蒋恩晶）及 KFUPM × 清华团队撰写，2026 年 10 月。*
