@@ -53,7 +53,7 @@ returnpilot-ai/
 
 The product is a **pure static site** (no backend, no build step). Open `site/index.html`, or host the `site/` folder on any static host.
 
-*本产品为**纯静态站点**（无后端、无构建步骤）。用浏览器打开 `site/index.html`，或将 `site/` 目录托管到任意静态主机。 Lembar*
+*本产品为**纯静态站点**（无后端、无构建步骤）。用浏览器打开 `site/index.html`，或将 `site/` 目录托管到任意静态主机。*
 
 ## Live interactive demo / 在线交互演示
 
