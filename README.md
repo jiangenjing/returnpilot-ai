@@ -53,7 +53,7 @@ returnpilot-ai/
 
 The product is a **pure static site** (no backend, no build step). Open `site/index.html`, or host the `site/` folder on any static host.
 
-*本产品为**纯静态站点**（无后端、无构建步骤）。用浏览器打开 `site/index.html`，或将 `site/` 目录托管到任意静态主机。*
+*本产品为**纯静态站点**（无后端、无构建步骤）。用浏览器打开 `site/index.html`，或将 `site/` 目录托管到任意静态主机。 Lembar*
 
 ## Live interactive demo / 在线交互演示
 
@@ -80,4 +80,4 @@ The product is a **pure static site** (no backend, no build step). Open `site/in
   市场验证、定价、落地推广与监管合规（PDPL、SAMA 保险沙盒、国家地址令）。
 
 *Prepared by Enjing Jiang (蒋恩晶) and the KFUPM × Tsinghua team, October 2026.*
-*由蒋恩晶（蒋恩晶）及 KFUPM × 清华团队撰写，2026 年 10 月。*
+*由蒋恩晶（Enjing Jiang）及 KFUPM × 清华团队撰写，2026 年 10 月。*
